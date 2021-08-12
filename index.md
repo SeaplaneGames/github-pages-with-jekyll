@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Learning to code, one modded game at a time"
 ---
 
-I'm glad you are here. I plan to talk about ... stuff that I am interested in.
+I am starting out as a complete novice programmer with almost zero training, so this will be a long, and frustrating journey. If you are interested in my progress, or want to try it out for yourself, follow along and let's get in touch.
